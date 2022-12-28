@@ -1,3 +1,3 @@
 # The Magnificent Board Games
 
-[Main site]()
+[Main site](https://amphiii.github.io/the-magnificent-mods/)
