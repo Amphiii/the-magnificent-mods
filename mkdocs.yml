@@ -1,0 +1,5 @@
+site_name: The Magnificent Board Games
+theme: material
+nav:
+  - Home: index.md
+  - Journey Through Europe: journey-through-europe.md
